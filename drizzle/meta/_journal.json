@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761203963865,
+      "tag": "0000_wandering_photon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1761203995662,
+      "tag": "0001_long_bromley",
+      "breakpoints": true
+    }
+  ]
+}
